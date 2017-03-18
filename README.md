@@ -42,3 +42,6 @@ ORGANISATION OF DATA
 	0.3, 0.4
 	0.5, 0.6
 	
+License:
+
+    * Tou are free to use and modify this work for your work but you must inform about this work in your work.
