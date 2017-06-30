@@ -42,6 +42,11 @@ ORGANISATION OF DATA
 	0.3, 0.4
 	0.5, 0.6
 	
+	Result in binary file:
+	<number of points><number of dimensions><sizeof(long)>
+	0x01020304
+	<k neighbors for 0 element><k neighbors for 1 element>...
+	
 License:
 
     * Tou are free to use and modify this work for your work but you must inform about this work in your work.
