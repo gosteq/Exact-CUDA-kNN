@@ -50,3 +50,6 @@ ORGANISATION OF DATA
 License:
 
     * Tou are free to use and modify this work for your work but you must inform about this work in your work.
+    
+Article:
+    https://www.researchgate.net/publication/318019998_Multi-GPU_k-Nearest_Neighbor_search_in_the_context_of_data_embedding
